@@ -32,7 +32,7 @@ A microservice is a modern architecture for designing software applications, con
 In this application:
 
 - `product-service` and `offer-service` are the microservices.
-- `service-registry` provides service discovery.
+- `service-registry` is the another microservice provides service discovery.
 - `api-gateway` handles dynamic service routing and load balancing.
 
 ---
