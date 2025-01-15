@@ -193,5 +193,5 @@ You can access the project file using the following link:
 
 [Google Drive](https://drive.google.com/file/d/1BXf_qPvvP89LHUyNzD9f-Qb_Glv91zHq/view?usp=sharing)
 
-Download and watch the demo video [here](video.mp4)
+Download and watch the demo video [here](demo.mp4)
 
