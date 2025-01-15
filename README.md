@@ -187,9 +187,11 @@ In this application:
 
 This is a complete microservice application. You can extend it by adding new services integrated with the `service-registry` and `api-gateway`. Explore tools like Hystrix, Zipkin, and Feign for additional features.
 
-## Access the Project File
+## Project Demo
 
 You can access the project file using the following link:
 
-[Project Resources](https://drive.google.com/file/d/1BXf_qPvvP89LHUyNzD9f-Qb_Glv91zHq/view?usp=sharing)
+[Google Drive](https://drive.google.com/file/d/1BXf_qPvvP89LHUyNzD9f-Qb_Glv91zHq/view?usp=sharing)
+
+Download and watch the demo video [here](video.mp4)
 
